@@ -1,0 +1,5 @@
+1. download the dataset from the link
+https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset
+2. unzip the folder and extract the file
+3. open the project.ipynb with jupyter notebook/ anaconda/ vscode
+4. put the location of the extracted file
